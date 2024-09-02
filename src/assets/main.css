@@ -1,0 +1,11 @@
+@import './base.css';
+
+a {
+  color: var(--vt-c-black-soft);
+  text-decoration: none;
+  transition: .2s;
+}
+
+a:hover {
+  opacity: .7;
+}
